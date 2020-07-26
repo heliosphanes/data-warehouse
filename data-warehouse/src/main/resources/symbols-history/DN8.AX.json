@@ -1,0 +1,7091 @@
+{
+  "metadata" : {
+    "information" : "Daily Time Series with Splits and Dividend Events",
+    "symbol" : "DN8.AX",
+    "lastRefreshed" : "2019-09-26",
+    "outputSize" : "Full size",
+    "timeZone" : "US/Eastern"
+  },
+  "dailySeries" : {
+    "2019-09-26" : {
+      "open" : "0.2650",
+      "high" : "0.2670",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "910564",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-25" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "2776",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-24" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-23" : {
+      "open" : "0.2670",
+      "high" : "0.2675",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "272605",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-20" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "171576",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-19" : {
+      "open" : "0.2700",
+      "high" : "0.2700",
+      "low" : "0.2670",
+      "close" : "0.2675",
+      "adjustedClose" : "0.2675",
+      "volume" : "14654",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-18" : {
+      "open" : "0.2650",
+      "high" : "0.2670",
+      "low" : "0.2650",
+      "close" : "0.2675",
+      "adjustedClose" : "0.2675",
+      "volume" : "19900",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-17" : {
+      "open" : "0.2650",
+      "high" : "0.2675",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "157853",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-16" : {
+      "open" : "0.2670",
+      "high" : "0.2670",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "352938",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-13" : {
+      "open" : "0.2650",
+      "high" : "0.2675",
+      "low" : "0.2650",
+      "close" : "0.2675",
+      "adjustedClose" : "0.2675",
+      "volume" : "212920",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-12" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-11" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "25000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-10" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "672891",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-09" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "779278",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-06" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "204954",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-05" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-04" : {
+      "open" : "0.2650",
+      "high" : "0.2700",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "563675",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-03" : {
+      "open" : "0.0000",
+      "high" : "0.0000",
+      "low" : "0.0000",
+      "close" : "0.0000",
+      "adjustedClose" : "0.0000",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-09-02" : {
+      "open" : "0.2650",
+      "high" : "0.2700",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "1547006",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-30" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "1000000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-29" : {
+      "open" : "0.2600",
+      "high" : "0.2600",
+      "low" : "0.2600",
+      "close" : "0.2600",
+      "adjustedClose" : "0.2600",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-28" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2600",
+      "close" : "0.2600",
+      "adjustedClose" : "0.2600",
+      "volume" : "84111",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-27" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "77000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-26" : {
+      "open" : "0.2620",
+      "high" : "0.2700",
+      "low" : "0.2620",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "1310567",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-23" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2620",
+      "close" : "0.2625",
+      "adjustedClose" : "0.2625",
+      "volume" : "101352",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-22" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "142000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-21" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "1029020",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-20" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "51031",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-19" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "45283",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-16" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "48700",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-15" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "827925",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-14" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "166176",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-13" : {
+      "open" : "0.2700",
+      "high" : "0.2700",
+      "low" : "0.2600",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "398709",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-12" : {
+      "open" : "0.2650",
+      "high" : "0.2700",
+      "low" : "0.2650",
+      "close" : "0.2700",
+      "adjustedClose" : "0.2700",
+      "volume" : "145607",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-09" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2620",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "604457",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-08" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2650",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "1572953",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-07" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2600",
+      "close" : "0.2625",
+      "adjustedClose" : "0.2625",
+      "volume" : "180402",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-06" : {
+      "open" : "0.2600",
+      "high" : "0.2650",
+      "low" : "0.2600",
+      "close" : "0.2600",
+      "adjustedClose" : "0.2600",
+      "volume" : "269009",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-05" : {
+      "open" : "0.2625",
+      "high" : "0.2625",
+      "low" : "0.2625",
+      "close" : "0.2625",
+      "adjustedClose" : "0.2625",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-02" : {
+      "open" : "0.2620",
+      "high" : "0.2650",
+      "low" : "0.2620",
+      "close" : "0.2625",
+      "adjustedClose" : "0.2625",
+      "volume" : "1754789",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-08-01" : {
+      "open" : "0.2600",
+      "high" : "0.2650",
+      "low" : "0.2600",
+      "close" : "0.2650",
+      "adjustedClose" : "0.2650",
+      "volume" : "206853",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-31" : {
+      "open" : "0.2620",
+      "high" : "0.2625",
+      "low" : "0.2620",
+      "close" : "0.2625",
+      "adjustedClose" : "0.2625",
+      "volume" : "522100",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-30" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2600",
+      "close" : "0.2625",
+      "adjustedClose" : "0.2625",
+      "volume" : "262431",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-29" : {
+      "open" : "0.2600",
+      "high" : "0.2625",
+      "low" : "0.2600",
+      "close" : "0.2625",
+      "adjustedClose" : "0.2625",
+      "volume" : "248201",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-26" : {
+      "open" : "0.2650",
+      "high" : "0.2650",
+      "low" : "0.2600",
+      "close" : "0.2625",
+      "adjustedClose" : "0.2625",
+      "volume" : "330965",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-25" : {
+      "open" : "0.2600",
+      "high" : "0.2620",
+      "low" : "0.2600",
+      "close" : "0.2600",
+      "adjustedClose" : "0.2600",
+      "volume" : "1145404",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-24" : {
+      "open" : "0.2600",
+      "high" : "0.2650",
+      "low" : "0.2550",
+      "close" : "0.2600",
+      "adjustedClose" : "0.2600",
+      "volume" : "7165454",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-23" : {
+      "open" : "0.2050",
+      "high" : "0.2050",
+      "low" : "0.2050",
+      "close" : "0.2050",
+      "adjustedClose" : "0.2050",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-22" : {
+      "open" : "0.2050",
+      "high" : "0.2050",
+      "low" : "0.2050",
+      "close" : "0.2050",
+      "adjustedClose" : "0.2050",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-19" : {
+      "open" : "0.1900",
+      "high" : "0.2050",
+      "low" : "0.1900",
+      "close" : "0.2050",
+      "adjustedClose" : "0.2050",
+      "volume" : "140821",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-18" : {
+      "open" : "0.2000",
+      "high" : "0.2150",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "626825",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-17" : {
+      "open" : "0.1950",
+      "high" : "0.2000",
+      "low" : "0.1900",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "360377",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-16" : {
+      "open" : "0.1800",
+      "high" : "0.1950",
+      "low" : "0.1800",
+      "close" : "0.1950",
+      "adjustedClose" : "0.1950",
+      "volume" : "436397",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-15" : {
+      "open" : "0.1650",
+      "high" : "0.1800",
+      "low" : "0.1650",
+      "close" : "0.1800",
+      "adjustedClose" : "0.1800",
+      "volume" : "1457859",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-12" : {
+      "open" : "0.1650",
+      "high" : "0.1650",
+      "low" : "0.1650",
+      "close" : "0.1650",
+      "adjustedClose" : "0.1650",
+      "volume" : "30303",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-11" : {
+      "open" : "0.1650",
+      "high" : "0.1650",
+      "low" : "0.1550",
+      "close" : "0.1650",
+      "adjustedClose" : "0.1650",
+      "volume" : "468625",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-10" : {
+      "open" : "0.1650",
+      "high" : "0.1650",
+      "low" : "0.1550",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "118582",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-09" : {
+      "open" : "0.1550",
+      "high" : "0.1650",
+      "low" : "0.1550",
+      "close" : "0.1650",
+      "adjustedClose" : "0.1650",
+      "volume" : "69685",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-08" : {
+      "open" : "0.1600",
+      "high" : "0.1600",
+      "low" : "0.1550",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "238223",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-05" : {
+      "open" : "0.1550",
+      "high" : "0.1600",
+      "low" : "0.1500",
+      "close" : "0.1500",
+      "adjustedClose" : "0.1500",
+      "volume" : "194547",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-04" : {
+      "open" : "0.1500",
+      "high" : "0.1600",
+      "low" : "0.1500",
+      "close" : "0.1600",
+      "adjustedClose" : "0.1600",
+      "volume" : "267544",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-03" : {
+      "open" : "0.1550",
+      "high" : "0.1550",
+      "low" : "0.1500",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "162000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-02" : {
+      "open" : "0.1550",
+      "high" : "0.1550",
+      "low" : "0.1550",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "291000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-07-01" : {
+      "open" : "0.1600",
+      "high" : "0.1600",
+      "low" : "0.1600",
+      "close" : "0.1600",
+      "adjustedClose" : "0.1600",
+      "volume" : "149991",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-28" : {
+      "open" : "0.1550",
+      "high" : "0.1600",
+      "low" : "0.1550",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "175494",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-27" : {
+      "open" : "0.1500",
+      "high" : "0.1600",
+      "low" : "0.1500",
+      "close" : "0.1575",
+      "adjustedClose" : "0.1575",
+      "volume" : "935409",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-26" : {
+      "open" : "0.1450",
+      "high" : "0.1800",
+      "low" : "0.1450",
+      "close" : "0.1500",
+      "adjustedClose" : "0.1500",
+      "volume" : "11739828",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-25" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "21595",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-24" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "15792",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-21" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "286176",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-20" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "152748",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-19" : {
+      "open" : "0.1400",
+      "high" : "0.1400",
+      "low" : "0.1400",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "27413",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-18" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1400",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "160031",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-17" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1400",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "151363",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-14" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "124379",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-13" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "34107",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-12" : {
+      "open" : "0.1400",
+      "high" : "0.1450",
+      "low" : "0.1400",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "219886",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-11" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "155000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-07" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-06" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-05" : {
+      "open" : "0.1400",
+      "high" : "0.1500",
+      "low" : "0.1400",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "317139",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-04" : {
+      "open" : "0.1350",
+      "high" : "0.1400",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "430114",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-06-03" : {
+      "open" : "0.1400",
+      "high" : "0.1400",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "432666",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-31" : {
+      "open" : "0.1400",
+      "high" : "0.1400",
+      "low" : "0.1300",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "997019",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-30" : {
+      "open" : "0.1300",
+      "high" : "0.1400",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "502990",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-29" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-28" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "100000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-27" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "50000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-24" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "184370",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-23" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "304342",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-22" : {
+      "open" : "0.1350",
+      "high" : "0.1400",
+      "low" : "0.1300",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "482837",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-21" : {
+      "open" : "0.1400",
+      "high" : "0.1400",
+      "low" : "0.1400",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "360000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-20" : {
+      "open" : "0.1400",
+      "high" : "0.1400",
+      "low" : "0.1400",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "72463",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-17" : {
+      "open" : "0.1420",
+      "high" : "0.1450",
+      "low" : "0.1400",
+      "close" : "0.1425",
+      "adjustedClose" : "0.1425",
+      "volume" : "1656843",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-16" : {
+      "open" : "0.1420",
+      "high" : "0.1450",
+      "low" : "0.1420",
+      "close" : "0.1425",
+      "adjustedClose" : "0.1425",
+      "volume" : "771416",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-15" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1400",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "473882",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-14" : {
+      "open" : "0.1350",
+      "high" : "0.1500",
+      "low" : "0.1350",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "10560894",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-13" : {
+      "open" : "0.1400",
+      "high" : "0.1400",
+      "low" : "0.1400",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "701046",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-10" : {
+      "open" : "0.1350",
+      "high" : "0.1450",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "3386761",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-09" : {
+      "open" : "0.1550",
+      "high" : "0.1700",
+      "low" : "0.1250",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "3737569",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-08" : {
+      "open" : "0.1000",
+      "high" : "0.1000",
+      "low" : "0.1000",
+      "close" : "0.1000",
+      "adjustedClose" : "0.1000",
+      "volume" : "1650",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-07" : {
+      "open" : "0.1000",
+      "high" : "0.1000",
+      "low" : "0.1000",
+      "close" : "0.1000",
+      "adjustedClose" : "0.1000",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-06" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1000",
+      "close" : "0.1000",
+      "adjustedClose" : "0.1000",
+      "volume" : "90000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-03" : {
+      "open" : "0.1000",
+      "high" : "0.1000",
+      "low" : "0.1000",
+      "close" : "0.1000",
+      "adjustedClose" : "0.1000",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-02" : {
+      "open" : "0.0950",
+      "high" : "0.1000",
+      "low" : "0.0950",
+      "close" : "0.1000",
+      "adjustedClose" : "0.1000",
+      "volume" : "265091",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-05-01" : {
+      "open" : "0.1000",
+      "high" : "0.1000",
+      "low" : "0.0940",
+      "close" : "0.0940",
+      "adjustedClose" : "0.0940",
+      "volume" : "214971",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-30" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "137692",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-29" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-26" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "83628",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-24" : {
+      "open" : "0.1050",
+      "high" : "0.1150",
+      "low" : "0.1050",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "212823",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-23" : {
+      "open" : "0.0980",
+      "high" : "0.1000",
+      "low" : "0.0980",
+      "close" : "0.1000",
+      "adjustedClose" : "0.1000",
+      "volume" : "223834",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-18" : {
+      "open" : "0.0900",
+      "high" : "0.0970",
+      "low" : "0.0900",
+      "close" : "0.0960",
+      "adjustedClose" : "0.0960",
+      "volume" : "636925",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-17" : {
+      "open" : "0.0910",
+      "high" : "0.0910",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "316728",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-16" : {
+      "open" : "0.0910",
+      "high" : "0.0910",
+      "low" : "0.0910",
+      "close" : "0.0910",
+      "adjustedClose" : "0.0910",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-15" : {
+      "open" : "0.0910",
+      "high" : "0.0910",
+      "low" : "0.0910",
+      "close" : "0.0910",
+      "adjustedClose" : "0.0910",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-12" : {
+      "open" : "0.0910",
+      "high" : "0.0910",
+      "low" : "0.0910",
+      "close" : "0.0910",
+      "adjustedClose" : "0.0910",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-11" : {
+      "open" : "0.0910",
+      "high" : "0.0910",
+      "low" : "0.0910",
+      "close" : "0.0910",
+      "adjustedClose" : "0.0910",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-10" : {
+      "open" : "0.0910",
+      "high" : "0.0910",
+      "low" : "0.0910",
+      "close" : "0.0910",
+      "adjustedClose" : "0.0910",
+      "volume" : "18138",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-09" : {
+      "open" : "0.0910",
+      "high" : "0.0910",
+      "low" : "0.0910",
+      "close" : "0.0910",
+      "adjustedClose" : "0.0910",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-08" : {
+      "open" : "0.0930",
+      "high" : "0.0930",
+      "low" : "0.0910",
+      "close" : "0.0910",
+      "adjustedClose" : "0.0910",
+      "volume" : "36923",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-05" : {
+      "open" : "0.0870",
+      "high" : "0.0870",
+      "low" : "0.0870",
+      "close" : "0.0870",
+      "adjustedClose" : "0.0870",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-04" : {
+      "open" : "0.0870",
+      "high" : "0.0870",
+      "low" : "0.0870",
+      "close" : "0.0870",
+      "adjustedClose" : "0.0870",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-03" : {
+      "open" : "0.0870",
+      "high" : "0.0870",
+      "low" : "0.0870",
+      "close" : "0.0870",
+      "adjustedClose" : "0.0870",
+      "volume" : "5000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-02" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "2905",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-04-01" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "66555",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-29" : {
+      "open" : "0.0930",
+      "high" : "0.0930",
+      "low" : "0.0930",
+      "close" : "0.0930",
+      "adjustedClose" : "0.0930",
+      "volume" : "17000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-28" : {
+      "open" : "0.0920",
+      "high" : "0.0930",
+      "low" : "0.0920",
+      "close" : "0.0930",
+      "adjustedClose" : "0.0930",
+      "volume" : "366355",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-27" : {
+      "open" : "0.0920",
+      "high" : "0.0920",
+      "low" : "0.0910",
+      "close" : "0.0910",
+      "adjustedClose" : "0.0910",
+      "volume" : "54880",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-26" : {
+      "open" : "0.0940",
+      "high" : "0.0940",
+      "low" : "0.0940",
+      "close" : "0.0940",
+      "adjustedClose" : "0.0940",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-25" : {
+      "open" : "0.0910",
+      "high" : "0.0940",
+      "low" : "0.0910",
+      "close" : "0.0940",
+      "adjustedClose" : "0.0940",
+      "volume" : "110638",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-22" : {
+      "open" : "0.0950",
+      "high" : "0.0950",
+      "low" : "0.0950",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "134487",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-21" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "2376",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-20" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-19" : {
+      "open" : "0.0950",
+      "high" : "0.0950",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "713979",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-18" : {
+      "open" : "0.0970",
+      "high" : "0.0970",
+      "low" : "0.0950",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "235040",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-15" : {
+      "open" : "0.0950",
+      "high" : "0.0960",
+      "low" : "0.0950",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "725500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-14" : {
+      "open" : "0.0950",
+      "high" : "0.0950",
+      "low" : "0.0950",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-13" : {
+      "open" : "0.0940",
+      "high" : "0.0950",
+      "low" : "0.0940",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "733336",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-12" : {
+      "open" : "0.0930",
+      "high" : "0.0950",
+      "low" : "0.0930",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "442871",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-11" : {
+      "open" : "0.0930",
+      "high" : "0.0950",
+      "low" : "0.0930",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "442871",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-08" : {
+      "open" : "0.0950",
+      "high" : "0.0950",
+      "low" : "0.0940",
+      "close" : "0.0940",
+      "adjustedClose" : "0.0940",
+      "volume" : "387714",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-07" : {
+      "open" : "0.0940",
+      "high" : "0.0940",
+      "low" : "0.0900",
+      "close" : "0.0940",
+      "adjustedClose" : "0.0940",
+      "volume" : "234481",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-06" : {
+      "open" : "0.0990",
+      "high" : "0.0990",
+      "low" : "0.0940",
+      "close" : "0.0940",
+      "adjustedClose" : "0.0940",
+      "volume" : "44741",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-05" : {
+      "open" : "0.0990",
+      "high" : "0.0990",
+      "low" : "0.0990",
+      "close" : "0.0990",
+      "adjustedClose" : "0.0990",
+      "volume" : "20051",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-04" : {
+      "open" : "0.0970",
+      "high" : "0.0970",
+      "low" : "0.0970",
+      "close" : "0.0970",
+      "adjustedClose" : "0.0970",
+      "volume" : "5200",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-03-01" : {
+      "open" : "0.0950",
+      "high" : "0.0950",
+      "low" : "0.0950",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-28" : {
+      "open" : "0.0950",
+      "high" : "0.0950",
+      "low" : "0.0950",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "20636",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-27" : {
+      "open" : "0.0950",
+      "high" : "0.0950",
+      "low" : "0.0950",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "233395",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-26" : {
+      "open" : "0.0930",
+      "high" : "0.0930",
+      "low" : "0.0930",
+      "close" : "0.0930",
+      "adjustedClose" : "0.0930",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-25" : {
+      "open" : "0.0900",
+      "high" : "0.0930",
+      "low" : "0.0900",
+      "close" : "0.0930",
+      "adjustedClose" : "0.0930",
+      "volume" : "18560",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-22" : {
+      "open" : "0.0960",
+      "high" : "0.1150",
+      "low" : "0.0950",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "668080",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-21" : {
+      "open" : "0.0830",
+      "high" : "0.0840",
+      "low" : "0.0830",
+      "close" : "0.0840",
+      "adjustedClose" : "0.0840",
+      "volume" : "25032",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-20" : {
+      "open" : "0.0810",
+      "high" : "0.0810",
+      "low" : "0.0810",
+      "close" : "0.0810",
+      "adjustedClose" : "0.0810",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-19" : {
+      "open" : "0.0810",
+      "high" : "0.0810",
+      "low" : "0.0810",
+      "close" : "0.0810",
+      "adjustedClose" : "0.0810",
+      "volume" : "9000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-18" : {
+      "open" : "0.0890",
+      "high" : "0.0890",
+      "low" : "0.0890",
+      "close" : "0.0890",
+      "adjustedClose" : "0.0890",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-15" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0890",
+      "close" : "0.0890",
+      "adjustedClose" : "0.0890",
+      "volume" : "40764",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-14" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-13" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "50000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-12" : {
+      "open" : "0.0860",
+      "high" : "0.0860",
+      "low" : "0.0860",
+      "close" : "0.0860",
+      "adjustedClose" : "0.0860",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-11" : {
+      "open" : "0.0860",
+      "high" : "0.0860",
+      "low" : "0.0860",
+      "close" : "0.0860",
+      "adjustedClose" : "0.0860",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-08" : {
+      "open" : "0.0860",
+      "high" : "0.0860",
+      "low" : "0.0860",
+      "close" : "0.0860",
+      "adjustedClose" : "0.0860",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-07" : {
+      "open" : "0.0870",
+      "high" : "0.0870",
+      "low" : "0.0860",
+      "close" : "0.0860",
+      "adjustedClose" : "0.0860",
+      "volume" : "41500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-06" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-05" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-04" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-02-01" : {
+      "open" : "0.0950",
+      "high" : "0.0950",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "96159",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-31" : {
+      "open" : "0.0950",
+      "high" : "0.0950",
+      "low" : "0.0950",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "43309",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-30" : {
+      "open" : "0.0950",
+      "high" : "0.0950",
+      "low" : "0.0950",
+      "close" : "0.0950",
+      "adjustedClose" : "0.0950",
+      "volume" : "12783",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-29" : {
+      "open" : "0.0930",
+      "high" : "0.0930",
+      "low" : "0.0910",
+      "close" : "0.0910",
+      "adjustedClose" : "0.0910",
+      "volume" : "81092",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-25" : {
+      "open" : "0.0900",
+      "high" : "0.1050",
+      "low" : "0.0900",
+      "close" : "0.0910",
+      "adjustedClose" : "0.0910",
+      "volume" : "1481631",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-24" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-23" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "27500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-22" : {
+      "open" : "0.0900",
+      "high" : "0.0910",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "51686",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-21" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "248810",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-18" : {
+      "open" : "0.0860",
+      "high" : "0.0860",
+      "low" : "0.0860",
+      "close" : "0.0860",
+      "adjustedClose" : "0.0860",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-17" : {
+      "open" : "0.0860",
+      "high" : "0.0860",
+      "low" : "0.0860",
+      "close" : "0.0860",
+      "adjustedClose" : "0.0860",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-16" : {
+      "open" : "0.0860",
+      "high" : "0.0860",
+      "low" : "0.0860",
+      "close" : "0.0860",
+      "adjustedClose" : "0.0860",
+      "volume" : "95015",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-15" : {
+      "open" : "0.0860",
+      "high" : "0.0860",
+      "low" : "0.0860",
+      "close" : "0.0860",
+      "adjustedClose" : "0.0860",
+      "volume" : "95015",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-14" : {
+      "open" : "0.0900",
+      "high" : "0.0910",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "285300",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-11" : {
+      "open" : "0.0900",
+      "high" : "0.0900",
+      "low" : "0.0900",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-10" : {
+      "open" : "0.0880",
+      "high" : "0.0900",
+      "low" : "0.0870",
+      "close" : "0.0900",
+      "adjustedClose" : "0.0900",
+      "volume" : "69962",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-09" : {
+      "open" : "0.0880",
+      "high" : "0.0880",
+      "low" : "0.0880",
+      "close" : "0.0880",
+      "adjustedClose" : "0.0880",
+      "volume" : "534316",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-08" : {
+      "open" : "0.0870",
+      "high" : "0.0900",
+      "low" : "0.0860",
+      "close" : "0.0880",
+      "adjustedClose" : "0.0880",
+      "volume" : "564033",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-07" : {
+      "open" : "0.0880",
+      "high" : "0.0880",
+      "low" : "0.0880",
+      "close" : "0.0880",
+      "adjustedClose" : "0.0880",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-04" : {
+      "open" : "0.0880",
+      "high" : "0.0910",
+      "low" : "0.0880",
+      "close" : "0.0880",
+      "adjustedClose" : "0.0880",
+      "volume" : "3142949",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-03" : {
+      "open" : "0.0840",
+      "high" : "0.0840",
+      "low" : "0.0840",
+      "close" : "0.0840",
+      "adjustedClose" : "0.0840",
+      "volume" : "777142",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2019-01-02" : {
+      "open" : "0.0810",
+      "high" : "0.0840",
+      "low" : "0.0810",
+      "close" : "0.0810",
+      "adjustedClose" : "0.0810",
+      "volume" : "140000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-31" : {
+      "open" : "0.0800",
+      "high" : "0.0800",
+      "low" : "0.0780",
+      "close" : "0.0800",
+      "adjustedClose" : "0.0800",
+      "volume" : "2055380",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-28" : {
+      "open" : "0.0850",
+      "high" : "0.0850",
+      "low" : "0.0760",
+      "close" : "0.0770",
+      "adjustedClose" : "0.0770",
+      "volume" : "1791101",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-27" : {
+      "open" : "0.0840",
+      "high" : "0.0850",
+      "low" : "0.0840",
+      "close" : "0.0850",
+      "adjustedClose" : "0.0850",
+      "volume" : "335000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-24" : {
+      "open" : "0.0810",
+      "high" : "0.0810",
+      "low" : "0.0810",
+      "close" : "0.0810",
+      "adjustedClose" : "0.0810",
+      "volume" : "7700",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-21" : {
+      "open" : "0.0830",
+      "high" : "0.0830",
+      "low" : "0.0760",
+      "close" : "0.0810",
+      "adjustedClose" : "0.0810",
+      "volume" : "683768",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-20" : {
+      "open" : "0.0840",
+      "high" : "0.0840",
+      "low" : "0.0840",
+      "close" : "0.0840",
+      "adjustedClose" : "0.0840",
+      "volume" : "131742",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-19" : {
+      "open" : "0.0850",
+      "high" : "0.0850",
+      "low" : "0.0810",
+      "close" : "0.0830",
+      "adjustedClose" : "0.0830",
+      "volume" : "300000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-18" : {
+      "open" : "0.0850",
+      "high" : "0.0860",
+      "low" : "0.0830",
+      "close" : "0.0830",
+      "adjustedClose" : "0.0830",
+      "volume" : "445000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-17" : {
+      "open" : "0.0880",
+      "high" : "0.0880",
+      "low" : "0.0860",
+      "close" : "0.0880",
+      "adjustedClose" : "0.0880",
+      "volume" : "133368",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-14" : {
+      "open" : "0.0930",
+      "high" : "0.0930",
+      "low" : "0.0860",
+      "close" : "0.0880",
+      "adjustedClose" : "0.0880",
+      "volume" : "1583070",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-13" : {
+      "open" : "0.0950",
+      "high" : "0.0950",
+      "low" : "0.0930",
+      "close" : "0.0930",
+      "adjustedClose" : "0.0930",
+      "volume" : "200000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-12" : {
+      "open" : "0.0980",
+      "high" : "0.0980",
+      "low" : "0.0980",
+      "close" : "0.0980",
+      "adjustedClose" : "0.0980",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-11" : {
+      "open" : "0.0980",
+      "high" : "0.1000",
+      "low" : "0.0980",
+      "close" : "0.0980",
+      "adjustedClose" : "0.0980",
+      "volume" : "72000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-10" : {
+      "open" : "0.0910",
+      "high" : "0.0910",
+      "low" : "0.0910",
+      "close" : "0.0910",
+      "adjustedClose" : "0.0910",
+      "volume" : "25000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-07" : {
+      "open" : "0.1000",
+      "high" : "0.1000",
+      "low" : "0.1000",
+      "close" : "0.1000",
+      "adjustedClose" : "0.1000",
+      "volume" : "229500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-06" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "38148",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-05" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-04" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-12-03" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-30" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "490000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-29" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-28" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "179150",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-27" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1100",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-26" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1100",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-23" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1050",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "378094",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-22" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1100",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "48000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-21" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-20" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "1801361",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-19" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1100",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "25000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-16" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "20000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-15" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1000",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "100000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-14" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-13" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "372905",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-12" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1100",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "460000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-09" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "364349",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-08" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "300000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-07" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-06" : {
+      "open" : "0.1050",
+      "high" : "0.1050",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "211479",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-05" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1100",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "106267",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-02" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1100",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "50000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-11-01" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1000",
+      "close" : "0.1000",
+      "adjustedClose" : "0.1000",
+      "volume" : "582101",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-31" : {
+      "open" : "0.1150",
+      "high" : "0.1150",
+      "low" : "0.1150",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-30" : {
+      "open" : "0.1100",
+      "high" : "0.1150",
+      "low" : "0.1100",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "19782",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-29" : {
+      "open" : "0.1150",
+      "high" : "0.1150",
+      "low" : "0.1150",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-26" : {
+      "open" : "0.1150",
+      "high" : "0.1150",
+      "low" : "0.1050",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "177552",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-25" : {
+      "open" : "0.1150",
+      "high" : "0.1150",
+      "low" : "0.1050",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "177552",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-24" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "765598",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-23" : {
+      "open" : "0.1200",
+      "high" : "0.1250",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "2936571",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-22" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "272289",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-19" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "100000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-18" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "8000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-17" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "58000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-16" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "110000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-15" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "35977",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-12" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "35977",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-11" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "45000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-10" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-09" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "5000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-08" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "5000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-05" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "201258",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-04" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-03" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-02" : {
+      "open" : "0.1200",
+      "high" : "0.1300",
+      "low" : "0.1200",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "205750",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-10-01" : {
+      "open" : "0.1200",
+      "high" : "0.1300",
+      "low" : "0.1200",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "205750",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-28" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "86500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-27" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "118180",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-26" : {
+      "open" : "0.1150",
+      "high" : "0.1150",
+      "low" : "0.1150",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "16500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-25" : {
+      "open" : "0.1100",
+      "high" : "0.1150",
+      "low" : "0.1100",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "114746",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-24" : {
+      "open" : "0.1100",
+      "high" : "0.1150",
+      "low" : "0.1100",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "114746",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-21" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1100",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "25000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-20" : {
+      "open" : "0.1150",
+      "high" : "0.1150",
+      "low" : "0.1050",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "91332",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-19" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "207983",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-18" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1050",
+      "close" : "0.1050",
+      "adjustedClose" : "0.1050",
+      "volume" : "207983",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-17" : {
+      "open" : "0.1150",
+      "high" : "0.1150",
+      "low" : "0.1050",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "2016862",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-14" : {
+      "open" : "0.1150",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "24208",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-13" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "9160",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-12" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "685008",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-11" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "685008",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-10" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "152895",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-07" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "3710",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-06" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "66542",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-05" : {
+      "open" : "0.1150",
+      "high" : "0.1150",
+      "low" : "0.1150",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "13676",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-04" : {
+      "open" : "0.1150",
+      "high" : "0.1200",
+      "low" : "0.1050",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "166776",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-09-03" : {
+      "open" : "0.1150",
+      "high" : "0.1200",
+      "low" : "0.1050",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "166776",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-31" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1100",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "437230",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-30" : {
+      "open" : "0.1200",
+      "high" : "0.1250",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "234678",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-29" : {
+      "open" : "0.1250",
+      "high" : "0.1300",
+      "low" : "0.1200",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "1907242",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-28" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "43000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-27" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "50000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-24" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "234799",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-23" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "5000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-22" : {
+      "open" : "0.1150",
+      "high" : "0.1150",
+      "low" : "0.1150",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "874665",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-21" : {
+      "open" : "0.1150",
+      "high" : "0.1150",
+      "low" : "0.1150",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "874665",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-20" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-17" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "80000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-16" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "80000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-15" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-14" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "210487",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-13" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "59800",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-10" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-09" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-08" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-07" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-06" : {
+      "open" : "0.1200",
+      "high" : "0.1300",
+      "low" : "0.1200",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "159100",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-03" : {
+      "open" : "0.1200",
+      "high" : "0.1300",
+      "low" : "0.1200",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "159100",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-02" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "46500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-08-01" : {
+      "open" : "0.1250",
+      "high" : "0.1300",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "1864513",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-31" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "50329",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-30" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "8713",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-27" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "39742",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-26" : {
+      "open" : "0.1500",
+      "high" : "0.1550",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "1282517",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-25" : {
+      "open" : "0.1300",
+      "high" : "0.1450",
+      "low" : "0.1300",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "2391149",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-24" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-23" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-20" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "120000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-19" : {
+      "open" : "0.1150",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "312961",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-18" : {
+      "open" : "0.1150",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "532721",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-17" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1150",
+      "adjustedClose" : "0.1150",
+      "volume" : "568788",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-16" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "29984",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-13" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "115692",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-12" : {
+      "open" : "0.1250",
+      "high" : "0.1300",
+      "low" : "0.1250",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "100000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-11" : {
+      "open" : "0.1200",
+      "high" : "0.1250",
+      "low" : "0.1200",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "13293",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-10" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "12867",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-09" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "1400",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-06" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-05" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "4250",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-04" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "4250",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-03" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "2350",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-07-02" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "316400",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-29" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "2850",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-28" : {
+      "open" : "0.1250",
+      "high" : "0.1400",
+      "low" : "0.1250",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "95206",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-27" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "33718",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-26" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "35730",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-25" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-22" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-21" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-20" : {
+      "open" : "0.1150",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "36556",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-19" : {
+      "open" : "0.1150",
+      "high" : "0.1200",
+      "low" : "0.1150",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "36556",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-18" : {
+      "open" : "0.1150",
+      "high" : "0.1250",
+      "low" : "0.1150",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "58000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-15" : {
+      "open" : "0.1200",
+      "high" : "0.1200",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "10000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-14" : {
+      "open" : "0.1100",
+      "high" : "0.1100",
+      "low" : "0.1100",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "30000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-13" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1100",
+      "close" : "0.1100",
+      "adjustedClose" : "0.1100",
+      "volume" : "171163",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-12" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "115000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-08" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-07" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-06" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-05" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-04" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-06-01" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-31" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-30" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "150000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-29" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "150000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-28" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-25" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-24" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "136860",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-23" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "136860",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-22" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "100000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-21" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-18" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-17" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "8060",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-16" : {
+      "open" : "0.1250",
+      "high" : "0.1300",
+      "low" : "0.1250",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "153550",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-15" : {
+      "open" : "0.1250",
+      "high" : "0.1300",
+      "low" : "0.1250",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "153550",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-14" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "150000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-11" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1300",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "200000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-10" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "282538",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-09" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "306829",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-08" : {
+      "open" : "0.1250",
+      "high" : "0.1300",
+      "low" : "0.1250",
+      "close" : "0.1300",
+      "adjustedClose" : "0.1300",
+      "volume" : "500731",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-07" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "269013",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-04" : {
+      "open" : "0.1250",
+      "high" : "0.1300",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "277000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-03" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1200",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "402400",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-02" : {
+      "open" : "0.1300",
+      "high" : "0.1300",
+      "low" : "0.1200",
+      "close" : "0.1200",
+      "adjustedClose" : "0.1200",
+      "volume" : "189900",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-05-01" : {
+      "open" : "0.1250",
+      "high" : "0.1250",
+      "low" : "0.1100",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "250000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-30" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1250",
+      "close" : "0.1250",
+      "adjustedClose" : "0.1250",
+      "volume" : "317348",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-27" : {
+      "open" : "0.1400",
+      "high" : "0.1400",
+      "low" : "0.1400",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "37826",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-26" : {
+      "open" : "0.1400",
+      "high" : "0.1400",
+      "low" : "0.1400",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "113412",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-24" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-23" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-20" : {
+      "open" : "0.1400",
+      "high" : "0.1400",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "6470",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-19" : {
+      "open" : "0.1500",
+      "high" : "0.1500",
+      "low" : "0.1500",
+      "close" : "0.1500",
+      "adjustedClose" : "0.1500",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-18" : {
+      "open" : "0.1450",
+      "high" : "0.1500",
+      "low" : "0.1450",
+      "close" : "0.1500",
+      "adjustedClose" : "0.1500",
+      "volume" : "31960",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-17" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "18040",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-16" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1300",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "184611",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-13" : {
+      "open" : "0.1250",
+      "high" : "0.1450",
+      "low" : "0.1250",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "18000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-12" : {
+      "open" : "0.1250",
+      "high" : "0.1450",
+      "low" : "0.1250",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "18000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-11" : {
+      "open" : "0.1350",
+      "high" : "0.1350",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "1809",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-10" : {
+      "open" : "0.1400",
+      "high" : "0.1400",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "30000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-09" : {
+      "open" : "0.1400",
+      "high" : "0.1400",
+      "low" : "0.1400",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "11000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-06" : {
+      "open" : "0.1400",
+      "high" : "0.1400",
+      "low" : "0.1400",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "5224",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-05" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-04" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-04-03" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1400",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "10000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-29" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1400",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "10000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-28" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-27" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-26" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-23" : {
+      "open" : "0.1550",
+      "high" : "0.1550",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "86470",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-22" : {
+      "open" : "0.1550",
+      "high" : "0.1550",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "86470",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-21" : {
+      "open" : "0.1500",
+      "high" : "0.1500",
+      "low" : "0.1500",
+      "close" : "0.1500",
+      "adjustedClose" : "0.1500",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-20" : {
+      "open" : "0.1500",
+      "high" : "0.1500",
+      "low" : "0.1500",
+      "close" : "0.1500",
+      "adjustedClose" : "0.1500",
+      "volume" : "55000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-19" : {
+      "open" : "0.1500",
+      "high" : "0.1500",
+      "low" : "0.1500",
+      "close" : "0.1500",
+      "adjustedClose" : "0.1500",
+      "volume" : "55000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-16" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1400",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "102000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-15" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1400",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "102000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-14" : {
+      "open" : "0.1500",
+      "high" : "0.1500",
+      "low" : "0.1500",
+      "close" : "0.1500",
+      "adjustedClose" : "0.1500",
+      "volume" : "4184",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-13" : {
+      "open" : "0.1500",
+      "high" : "0.1500",
+      "low" : "0.1500",
+      "close" : "0.1500",
+      "adjustedClose" : "0.1500",
+      "volume" : "48000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-12" : {
+      "open" : "0.1550",
+      "high" : "0.1550",
+      "low" : "0.1550",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-09" : {
+      "open" : "0.1550",
+      "high" : "0.1550",
+      "low" : "0.1550",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-08" : {
+      "open" : "0.1550",
+      "high" : "0.1550",
+      "low" : "0.1500",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "20533",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-07" : {
+      "open" : "0.1550",
+      "high" : "0.1550",
+      "low" : "0.1550",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "514",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-06" : {
+      "open" : "0.1600",
+      "high" : "0.1600",
+      "low" : "0.1500",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "84107",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-05" : {
+      "open" : "0.1600",
+      "high" : "0.1600",
+      "low" : "0.1600",
+      "close" : "0.1600",
+      "adjustedClose" : "0.1600",
+      "volume" : "52449",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-02" : {
+      "open" : "0.1600",
+      "high" : "0.1600",
+      "low" : "0.1550",
+      "close" : "0.1600",
+      "adjustedClose" : "0.1600",
+      "volume" : "637638",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-03-01" : {
+      "open" : "0.1550",
+      "high" : "0.1550",
+      "low" : "0.1550",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "122133",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-28" : {
+      "open" : "0.1600",
+      "high" : "0.1600",
+      "low" : "0.1500",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "428070",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-27" : {
+      "open" : "0.1600",
+      "high" : "0.1600",
+      "low" : "0.1600",
+      "close" : "0.1600",
+      "adjustedClose" : "0.1600",
+      "volume" : "257120",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-26" : {
+      "open" : "0.1500",
+      "high" : "0.1650",
+      "low" : "0.1500",
+      "close" : "0.1500",
+      "adjustedClose" : "0.1500",
+      "volume" : "1966580",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-23" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1400",
+      "close" : "0.1400",
+      "adjustedClose" : "0.1400",
+      "volume" : "134071",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-22" : {
+      "open" : "0.1400",
+      "high" : "0.1500",
+      "low" : "0.1350",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "203500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-21" : {
+      "open" : "0.1450",
+      "high" : "0.1450",
+      "low" : "0.1450",
+      "close" : "0.1450",
+      "adjustedClose" : "0.1450",
+      "volume" : "15793",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-20" : {
+      "open" : "0.1600",
+      "high" : "0.1600",
+      "low" : "0.1400",
+      "close" : "0.1500",
+      "adjustedClose" : "0.1500",
+      "volume" : "370170",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-19" : {
+      "open" : "0.1650",
+      "high" : "0.1650",
+      "low" : "0.1550",
+      "close" : "0.1600",
+      "adjustedClose" : "0.1600",
+      "volume" : "23600",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-16" : {
+      "open" : "0.1600",
+      "high" : "0.1600",
+      "low" : "0.1600",
+      "close" : "0.1600",
+      "adjustedClose" : "0.1600",
+      "volume" : "66940",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-15" : {
+      "open" : "0.1600",
+      "high" : "0.1600",
+      "low" : "0.1550",
+      "close" : "0.1550",
+      "adjustedClose" : "0.1550",
+      "volume" : "64367",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-14" : {
+      "open" : "0.1450",
+      "high" : "0.1550",
+      "low" : "0.1400",
+      "close" : "0.1500",
+      "adjustedClose" : "0.1500",
+      "volume" : "445257",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-13" : {
+      "open" : "0.1800",
+      "high" : "0.1800",
+      "low" : "0.1250",
+      "close" : "0.1350",
+      "adjustedClose" : "0.1350",
+      "volume" : "3200033",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-12" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-09" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-08" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-07" : {
+      "open" : "0.2150",
+      "high" : "0.2300",
+      "low" : "0.2150",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "141458",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-06" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "12550",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-05" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "17390",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-02" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "194333",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-02-01" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "297500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-31" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "66777",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-30" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "40541",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-29" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "9175",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-25" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "9273",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-24" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "12174",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-23" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "12174",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-22" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-19" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-18" : {
+      "open" : "0.2350",
+      "high" : "0.2400",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "10145",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-17" : {
+      "open" : "0.2300",
+      "high" : "0.2350",
+      "low" : "0.2300",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "1794457",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-16" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "767",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-15" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "41453",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-12" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "61563",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-11" : {
+      "open" : "0.2250",
+      "high" : "0.2300",
+      "low" : "0.2200",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "108199",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-10" : {
+      "open" : "0.2200",
+      "high" : "0.2300",
+      "low" : "0.2200",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "130242",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-09" : {
+      "open" : "0.2250",
+      "high" : "0.2350",
+      "low" : "0.2250",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "141529",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-08" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "13103",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-05" : {
+      "open" : "0.2100",
+      "high" : "0.2150",
+      "low" : "0.2100",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "163150",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-04" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "6184952",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-03" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2018-01-02" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-29" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "6943",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-28" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "4700",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-27" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-22" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-21" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "12850",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-20" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "20167",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-19" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2000",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "236315",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-18" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "1830",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-15" : {
+      "open" : "0.2100",
+      "high" : "0.2150",
+      "low" : "0.2100",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "26392",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-14" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "2683",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-13" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2100",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "27994",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-12" : {
+      "open" : "0.2150",
+      "high" : "0.2250",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "12802",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-11" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-08" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "7099",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-07" : {
+      "open" : "0.2200",
+      "high" : "0.2250",
+      "low" : "0.2150",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "228417",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-06" : {
+      "open" : "0.2250",
+      "high" : "0.2300",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "19101",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-05" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "1985",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-04" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "160046",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-12-01" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-30" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "12057",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-29" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2200",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "104687",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-28" : {
+      "open" : "0.2250",
+      "high" : "0.2350",
+      "low" : "0.2250",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "341437",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-27" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "2320000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-24" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "32127",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-23" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "925",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-22" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2350",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "27694",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-21" : {
+      "open" : "0.2350",
+      "high" : "0.2450",
+      "low" : "0.2350",
+      "close" : "0.2450",
+      "adjustedClose" : "0.2450",
+      "volume" : "544432",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-20" : {
+      "open" : "0.2450",
+      "high" : "0.2450",
+      "low" : "0.2450",
+      "close" : "0.2450",
+      "adjustedClose" : "0.2450",
+      "volume" : "5971",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-17" : {
+      "open" : "0.2450",
+      "high" : "0.2450",
+      "low" : "0.2450",
+      "close" : "0.2450",
+      "adjustedClose" : "0.2450",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-16" : {
+      "open" : "0.2450",
+      "high" : "0.2450",
+      "low" : "0.2450",
+      "close" : "0.2450",
+      "adjustedClose" : "0.2450",
+      "volume" : "350",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-15" : {
+      "open" : "0.2350",
+      "high" : "0.2450",
+      "low" : "0.2350",
+      "close" : "0.2450",
+      "adjustedClose" : "0.2450",
+      "volume" : "7166",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-14" : {
+      "open" : "0.2450",
+      "high" : "0.2450",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "60000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-13" : {
+      "open" : "0.2400",
+      "high" : "0.2450",
+      "low" : "0.2400",
+      "close" : "0.2450",
+      "adjustedClose" : "0.2450",
+      "volume" : "483306",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-10" : {
+      "open" : "0.2450",
+      "high" : "0.2450",
+      "low" : "0.2450",
+      "close" : "0.2450",
+      "adjustedClose" : "0.2450",
+      "volume" : "892",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-09" : {
+      "open" : "0.2350",
+      "high" : "0.2400",
+      "low" : "0.2350",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "69787",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-08" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-07" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "60001",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-06" : {
+      "open" : "0.2450",
+      "high" : "0.2450",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "11500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-03" : {
+      "open" : "0.2450",
+      "high" : "0.2450",
+      "low" : "0.2450",
+      "close" : "0.2450",
+      "adjustedClose" : "0.2450",
+      "volume" : "7978",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-02" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-11-01" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "186000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-31" : {
+      "open" : "0.2400",
+      "high" : "0.2450",
+      "low" : "0.2400",
+      "close" : "0.2450",
+      "adjustedClose" : "0.2450",
+      "volume" : "101600",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-30" : {
+      "open" : "0.2400",
+      "high" : "0.2500",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "126000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-27" : {
+      "open" : "0.2450",
+      "high" : "0.2500",
+      "low" : "0.2400",
+      "close" : "0.2450",
+      "adjustedClose" : "0.2450",
+      "volume" : "540538",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-26" : {
+      "open" : "0.2350",
+      "high" : "0.2400",
+      "low" : "0.2350",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "1083833",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-25" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "209333",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-24" : {
+      "open" : "0.2300",
+      "high" : "0.2400",
+      "low" : "0.2300",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "1222617",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-23" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-20" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "2997",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-19" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "52500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-18" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "440000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-17" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "143000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-16" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-13" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "8278",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-12" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "60000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-11" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-10" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-09" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-06" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "240000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-05" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "31433",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-04" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-03" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-10-02" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "99534",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-29" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "6000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-28" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "111999",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-27" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "67",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-26" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-25" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "80444",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-22" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "250000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-21" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-20" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-19" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-18" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-15" : {
+      "open" : "0.2250",
+      "high" : "0.2300",
+      "low" : "0.2200",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "189729",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-14" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "3845",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-13" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "19666",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-12" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "312237",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-11" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "5000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-08" : {
+      "open" : "0.2250",
+      "high" : "0.2300",
+      "low" : "0.2250",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "8250",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-07" : {
+      "open" : "0.2250",
+      "high" : "0.2300",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "138084",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-06" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-05" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "70000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-04" : {
+      "open" : "0.2200",
+      "high" : "0.2350",
+      "low" : "0.2200",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "220777",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-09-01" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "8000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-31" : {
+      "open" : "0.2200",
+      "high" : "0.2250",
+      "low" : "0.2200",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "92592",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-30" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2100",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "625709",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-29" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "45000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-28" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-25" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "352351",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-24" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "75000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-23" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "7047",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-22" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "28000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-21" : {
+      "open" : "0.2150",
+      "high" : "0.2250",
+      "low" : "0.2150",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "98899",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-18" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "224",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-17" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "575",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-16" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "2515",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-15" : {
+      "open" : "0.2150",
+      "high" : "0.2250",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "2386575",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-14" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "206823",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-11" : {
+      "open" : "0.2250",
+      "high" : "0.2300",
+      "low" : "0.2100",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "250142",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-10" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "3051",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-09" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "3671",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-08" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "98",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-07" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-04" : {
+      "open" : "0.2350",
+      "high" : "0.2400",
+      "low" : "0.2250",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "28749",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-03" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "100431",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-02" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "131119",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-08-01" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-31" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2300",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "76587",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-28" : {
+      "open" : "0.2350",
+      "high" : "0.2400",
+      "low" : "0.2350",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "40346",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-27" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "912",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-26" : {
+      "open" : "0.2400",
+      "high" : "0.2450",
+      "low" : "0.2400",
+      "close" : "0.2450",
+      "adjustedClose" : "0.2450",
+      "volume" : "40299",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-25" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2350",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "71508",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-24" : {
+      "open" : "0.2450",
+      "high" : "0.2450",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "101029",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-21" : {
+      "open" : "0.2450",
+      "high" : "0.2450",
+      "low" : "0.2450",
+      "close" : "0.2450",
+      "adjustedClose" : "0.2450",
+      "volume" : "2515",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-20" : {
+      "open" : "0.2300",
+      "high" : "0.2400",
+      "low" : "0.2300",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "229849",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-19" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "2639",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-18" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "10835",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-17" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "103167",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-14" : {
+      "open" : "0.2250",
+      "high" : "0.2300",
+      "low" : "0.2250",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "120609",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-13" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "123",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-12" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "1024",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-11" : {
+      "open" : "0.2100",
+      "high" : "0.2150",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "44203",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-10" : {
+      "open" : "0.2150",
+      "high" : "0.2300",
+      "low" : "0.2100",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "14331",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-07" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "1000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-06" : {
+      "open" : "0.2200",
+      "high" : "0.2250",
+      "low" : "0.2200",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "20481",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-05" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "36963",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-04" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "52402",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-07-03" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "1887",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-30" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "1495161",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-29" : {
+      "open" : "0.2050",
+      "high" : "0.2250",
+      "low" : "0.2000",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "728750",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-28" : {
+      "open" : "0.2050",
+      "high" : "0.2050",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "10000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-27" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "300000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-26" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2050",
+      "close" : "0.2050",
+      "adjustedClose" : "0.2050",
+      "volume" : "91939",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-23" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "570500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-22" : {
+      "open" : "0.2000",
+      "high" : "0.2150",
+      "low" : "0.2000",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "301194",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-21" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "1460",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-20" : {
+      "open" : "0.1800",
+      "high" : "0.2000",
+      "low" : "0.1750",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "45000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-19" : {
+      "open" : "0.1800",
+      "high" : "0.1800",
+      "low" : "0.1800",
+      "close" : "0.1800",
+      "adjustedClose" : "0.1800",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-16" : {
+      "open" : "0.1800",
+      "high" : "0.1800",
+      "low" : "0.1800",
+      "close" : "0.1800",
+      "adjustedClose" : "0.1800",
+      "volume" : "170000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-15" : {
+      "open" : "0.1800",
+      "high" : "0.1800",
+      "low" : "0.1800",
+      "close" : "0.1800",
+      "adjustedClose" : "0.1800",
+      "volume" : "10260",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-14" : {
+      "open" : "0.1800",
+      "high" : "0.1800",
+      "low" : "0.1800",
+      "close" : "0.1800",
+      "adjustedClose" : "0.1800",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-13" : {
+      "open" : "0.1800",
+      "high" : "0.1800",
+      "low" : "0.1800",
+      "close" : "0.1800",
+      "adjustedClose" : "0.1800",
+      "volume" : "119000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-09" : {
+      "open" : "0.1850",
+      "high" : "0.1850",
+      "low" : "0.1800",
+      "close" : "0.1800",
+      "adjustedClose" : "0.1800",
+      "volume" : "28000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-08" : {
+      "open" : "0.2050",
+      "high" : "0.2050",
+      "low" : "0.2050",
+      "close" : "0.2050",
+      "adjustedClose" : "0.2050",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-07" : {
+      "open" : "0.2050",
+      "high" : "0.2050",
+      "low" : "0.2050",
+      "close" : "0.2050",
+      "adjustedClose" : "0.2050",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-06" : {
+      "open" : "0.1900",
+      "high" : "0.2050",
+      "low" : "0.1850",
+      "close" : "0.2050",
+      "adjustedClose" : "0.2050",
+      "volume" : "26777",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-05" : {
+      "open" : "0.1900",
+      "high" : "0.1900",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-02" : {
+      "open" : "0.1900",
+      "high" : "0.1900",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-06-01" : {
+      "open" : "0.1900",
+      "high" : "0.1900",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-31" : {
+      "open" : "0.1900",
+      "high" : "0.1900",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "8000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-30" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "270000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-29" : {
+      "open" : "0.2050",
+      "high" : "0.2050",
+      "low" : "0.2050",
+      "close" : "0.2050",
+      "adjustedClose" : "0.2050",
+      "volume" : "70756",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-26" : {
+      "open" : "0.1950",
+      "high" : "0.2050",
+      "low" : "0.1900",
+      "close" : "0.2050",
+      "adjustedClose" : "0.2050",
+      "volume" : "535475",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-25" : {
+      "open" : "0.1900",
+      "high" : "0.1900",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "7581",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-24" : {
+      "open" : "0.1950",
+      "high" : "0.1950",
+      "low" : "0.1950",
+      "close" : "0.1950",
+      "adjustedClose" : "0.1950",
+      "volume" : "30000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-23" : {
+      "open" : "0.1900",
+      "high" : "0.1900",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-22" : {
+      "open" : "0.1900",
+      "high" : "0.1900",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "20000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-19" : {
+      "open" : "0.1950",
+      "high" : "0.1950",
+      "low" : "0.1950",
+      "close" : "0.1950",
+      "adjustedClose" : "0.1950",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-18" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.1950",
+      "close" : "0.1950",
+      "adjustedClose" : "0.1950",
+      "volume" : "85000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-17" : {
+      "open" : "0.1900",
+      "high" : "0.1900",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "99999",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-16" : {
+      "open" : "0.1950",
+      "high" : "0.1950",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "10348",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-15" : {
+      "open" : "0.1970",
+      "high" : "0.1970",
+      "low" : "0.1970",
+      "close" : "0.1970",
+      "adjustedClose" : "0.1970",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-12" : {
+      "open" : "0.1970",
+      "high" : "0.1970",
+      "low" : "0.1970",
+      "close" : "0.1970",
+      "adjustedClose" : "0.1970",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-11" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.1950",
+      "close" : "0.1970",
+      "adjustedClose" : "0.1970",
+      "volume" : "214925",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-10" : {
+      "open" : "0.1950",
+      "high" : "0.1950",
+      "low" : "0.1950",
+      "close" : "0.1950",
+      "adjustedClose" : "0.1950",
+      "volume" : "37500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-09" : {
+      "open" : "0.1900",
+      "high" : "0.1900",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "8000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-08" : {
+      "open" : "0.1950",
+      "high" : "0.1950",
+      "low" : "0.1950",
+      "close" : "0.1950",
+      "adjustedClose" : "0.1950",
+      "volume" : "31000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-05" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "45000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-04" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-03" : {
+      "open" : "0.1950",
+      "high" : "0.2000",
+      "low" : "0.1950",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "40060",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-02" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "254651",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-05-01" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "5000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-28" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "50000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-27" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "10000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-26" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "210180",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-24" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "5000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-21" : {
+      "open" : "0.2250",
+      "high" : "0.2300",
+      "low" : "0.2250",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "8440",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-20" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "8260",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-19" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2100",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "102800",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-18" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "10348",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-13" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "122727",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-12" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "126043",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-11" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "308000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-10" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "85214",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-07" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "9786",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-06" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "600000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-05" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2200",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "2743559",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-04" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "100000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-04-03" : {
+      "open" : "0.2250",
+      "high" : "0.2300",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "12000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-31" : {
+      "open" : "0.2150",
+      "high" : "0.2250",
+      "low" : "0.2150",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "28150",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-30" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "62359",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-29" : {
+      "open" : "0.2300",
+      "high" : "0.2350",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "282618",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-28" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "4347",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-27" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-24" : {
+      "open" : "0.2000",
+      "high" : "0.2300",
+      "low" : "0.2000",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "600001",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-23" : {
+      "open" : "0.2150",
+      "high" : "0.2300",
+      "low" : "0.2150",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "102300",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-22" : {
+      "open" : "0.1900",
+      "high" : "0.2000",
+      "low" : "0.1900",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "58486",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-21" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "311129",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-20" : {
+      "open" : "0.1850",
+      "high" : "0.1850",
+      "low" : "0.1850",
+      "close" : "0.1850",
+      "adjustedClose" : "0.1850",
+      "volume" : "30000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-17" : {
+      "open" : "0.1850",
+      "high" : "0.1850",
+      "low" : "0.1850",
+      "close" : "0.1850",
+      "adjustedClose" : "0.1850",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-16" : {
+      "open" : "0.1800",
+      "high" : "0.1900",
+      "low" : "0.1800",
+      "close" : "0.1850",
+      "adjustedClose" : "0.1850",
+      "volume" : "343000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-15" : {
+      "open" : "0.1750",
+      "high" : "0.1750",
+      "low" : "0.1750",
+      "close" : "0.1750",
+      "adjustedClose" : "0.1750",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-14" : {
+      "open" : "0.1800",
+      "high" : "0.1800",
+      "low" : "0.1750",
+      "close" : "0.1750",
+      "adjustedClose" : "0.1750",
+      "volume" : "25000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-13" : {
+      "open" : "0.1750",
+      "high" : "0.1750",
+      "low" : "0.1750",
+      "close" : "0.1750",
+      "adjustedClose" : "0.1750",
+      "volume" : "8000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-10" : {
+      "open" : "0.1850",
+      "high" : "0.1850",
+      "low" : "0.1700",
+      "close" : "0.1700",
+      "adjustedClose" : "0.1700",
+      "volume" : "98128",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-09" : {
+      "open" : "0.1950",
+      "high" : "0.1950",
+      "low" : "0.1900",
+      "close" : "0.1900",
+      "adjustedClose" : "0.1900",
+      "volume" : "1316410",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-08" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.1950",
+      "close" : "0.1950",
+      "adjustedClose" : "0.1950",
+      "volume" : "150200",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-07" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.1950",
+      "close" : "0.1950",
+      "adjustedClose" : "0.1950",
+      "volume" : "22941",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-06" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-03" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-02" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-03-01" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "120000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-28" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-27" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "18587",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-24" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-23" : {
+      "open" : "0.2200",
+      "high" : "0.2250",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "970575",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-22" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "2500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-21" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-20" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-17" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "337657",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-16" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "8000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-15" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-14" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-13" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-10" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "3000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-09" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-08" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-07" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-06" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-03" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "26315",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-02" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "12001",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-02-01" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "86331",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-31" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-30" : {
+      "open" : "0.2200",
+      "high" : "0.2200",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "11608",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-27" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-25" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "75000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-24" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "10618",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-23" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-20" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "172552",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-19" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2200",
+      "close" : "0.2200",
+      "adjustedClose" : "0.2200",
+      "volume" : "24000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-18" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "15239",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-17" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "90060",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-16" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "15450",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-13" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "16120",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-12" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "20000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-11" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2350",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "60000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-10" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-09" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "28891",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-06" : {
+      "open" : "0.2400",
+      "high" : "0.2400",
+      "low" : "0.2400",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "144990",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-05" : {
+      "open" : "0.2350",
+      "high" : "0.2350",
+      "low" : "0.2150",
+      "close" : "0.2350",
+      "adjustedClose" : "0.2350",
+      "volume" : "4898553",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-04" : {
+      "open" : "0.2200",
+      "high" : "0.2400",
+      "low" : "0.2200",
+      "close" : "0.2400",
+      "adjustedClose" : "0.2400",
+      "volume" : "376606",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2017-01-03" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2000",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "69580",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-30" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "31000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-29" : {
+      "open" : "0.2000",
+      "high" : "0.2050",
+      "low" : "0.1900",
+      "close" : "0.2050",
+      "adjustedClose" : "0.2050",
+      "volume" : "76486",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-28" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.2000",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "3000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-23" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-22" : {
+      "open" : "0.2050",
+      "high" : "0.2100",
+      "low" : "0.2050",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "10000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-21" : {
+      "open" : "0.2150",
+      "high" : "0.2150",
+      "low" : "0.2150",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "50000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-20" : {
+      "open" : "0.2100",
+      "high" : "0.2150",
+      "low" : "0.2000",
+      "close" : "0.2150",
+      "adjustedClose" : "0.2150",
+      "volume" : "186189",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-19" : {
+      "open" : "0.1950",
+      "high" : "0.2000",
+      "low" : "0.1900",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "183500",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-16" : {
+      "open" : "0.2000",
+      "high" : "0.2000",
+      "low" : "0.1950",
+      "close" : "0.2000",
+      "adjustedClose" : "0.2000",
+      "volume" : "36000",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-15" : {
+      "open" : "0.2100",
+      "high" : "0.2100",
+      "low" : "0.2100",
+      "close" : "0.2100",
+      "adjustedClose" : "0.2100",
+      "volume" : "76520",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-14" : {
+      "open" : "0.2250",
+      "high" : "0.2250",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "0",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-13" : {
+      "open" : "0.2300",
+      "high" : "0.2300",
+      "low" : "0.2250",
+      "close" : "0.2250",
+      "adjustedClose" : "0.2250",
+      "volume" : "898634",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-12" : {
+      "open" : "0.2300",
+      "high" : "0.2350",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "90426",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-09" : {
+      "open" : "0.2400",
+      "high" : "0.2450",
+      "low" : "0.2300",
+      "close" : "0.2300",
+      "adjustedClose" : "0.2300",
+      "volume" : "270133",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-08" : {
+      "open" : "0.2550",
+      "high" : "0.2550",
+      "low" : "0.2400",
+      "close" : "0.2500",
+      "adjustedClose" : "0.2500",
+      "volume" : "633871",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    },
+    "2016-12-07" : {
+      "open" : "0.2800",
+      "high" : "0.2800",
+      "low" : "0.2400",
+      "close" : "0.2500",
+      "adjustedClose" : "0.2500",
+      "volume" : "8371404",
+      "dividendAmount" : "0.0000",
+      "splitCoefficient" : "1.0000"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+version: '2'
+
+services:  
+
+  janusgraph:
+    build: ./janusgraph-docker-config
+    container_name: janusgraph
+    ports:
+      - "8182:8182"
+    networks:
+      - mainproxy
+
+  cassandra:
+    image: cassandra
+    environment:
+      - CASSANDRA_START_RPC=true
+    container_name: cassandra
+    ports:
+      - "9160:9160"
+    networks:
+      - mainproxy
+
+  elastic:
+    image: docker.elastic.co/elasticsearch/elasticsearch:6.6.0
+    container_name: es
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    environment:
+      - discovery.type=single-node
+    networks:
+      - mainproxy
+      
+
+networks:
+  mainproxy:
+    driver: bridge 
+
