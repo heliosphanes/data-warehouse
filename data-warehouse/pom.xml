@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>data-warehouse</name>
 	<properties>
-		<vertx.version>3.6.3</vertx.version>
+		<vertx.version>3.9.4</vertx.version>
 		<janusgraph.version>0.4.0</janusgraph.version>
 		<gremlin.version>3.4.1</gremlin.version>
 	</properties>
